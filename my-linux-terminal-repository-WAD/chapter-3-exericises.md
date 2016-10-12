@@ -8,4 +8,4 @@
 
 `ls /usr/bin j*`
 
-There doesn't exist files starting with the **j** letter.
+##### There doesn't exist files starting with the **j** letter inside /usr/bin.
