@@ -91,5 +91,3 @@ confirmation.*
 at the same time renaming the file to* **my_films.txt**.
 
 ``mv -t multimedia/video/films.txt multimedia/my_films.txt``
-
-
