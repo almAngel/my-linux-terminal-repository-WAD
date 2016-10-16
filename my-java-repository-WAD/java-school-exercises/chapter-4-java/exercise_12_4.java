@@ -171,7 +171,7 @@ public class exercise_12_4 {
     
   //MARKUP LANGUAGES.
   System.out.println ("About MARKUP LANGUAGES subject...");
-  System.out.println ("A Processor core is made of: ");
+  System.out.println (": ");
   System.out.println ();
   System.out.println ("a- Sillicon, nanotransistors and aluminum");
   System.out.println ("b- Sand, nanotransistors and aluminum");
